@@ -18,3 +18,5 @@ See more information about this application at https://www.rcharlie.com/spotifyr
 library('Shiny')
 
 shiny::runGitHub("Artist_Analyzer","ccorbet2")
+
+https://ccorbet2.shinyapps.io/musicr/
